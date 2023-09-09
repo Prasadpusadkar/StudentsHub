@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1087472938947",
+    "project_id": "auth01-c335b",
+    "storage_bucket": "auth01-c335b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087472938947:android:dc546f3dbd5eeac2b49776",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087472938947-61eg40m2ugdn49ak3phf3b0adbv7jau3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAe6yyUkMGTJ08ZqPQBz3qw2Qw9p9V5OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087472938947-61eg40m2ugdn49ak3phf3b0adbv7jau3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087472938947:android:d3113c6d297c1683b49776",
+        "android_client_info": {
+          "package_name": "com.example.studenthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087472938947-61eg40m2ugdn49ak3phf3b0adbv7jau3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAe6yyUkMGTJ08ZqPQBz3qw2Qw9p9V5OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087472938947-61eg40m2ugdn49ak3phf3b0adbv7jau3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
